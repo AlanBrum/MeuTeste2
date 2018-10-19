@@ -25,7 +25,7 @@ int valor;
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+               Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
@@ -70,7 +70,7 @@ int valor;
 
         if (id == R.id.action_sair)
         {
-            mensagem("Mensagem","Tem certeza que deseja Sair do APP?",1);
+            mensagem("Sair","Deseja sair do Aplicativo?",1);
         }
 
         return super.onOptionsItemSelected(item);
@@ -117,7 +117,7 @@ int valor;
         alertateste.setNegativeButton("NAO", new DialogInterface.OnClickListener() {
 
             public void onClick(DialogInterface dialog, int which) {
-                //              singdados teste = new singdados();
+                //singdados teste = new singdados();
                 //singdados.getInstance();
             }
         });

@@ -33,6 +33,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+//Activity com parâmetro e sem parâmetro
 public class Main2Activity extends AppCompatActivity {
     Intent intent;
     String vtipo;
@@ -95,7 +96,7 @@ public class Main2Activity extends AppCompatActivity {
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
-            dialog = ProgressDialog.show(Main2Activity.this, "Aguarde",
+            dialog = ProgressDialog.show(Main2Activity.this, "Péra um Tiquim",
                     "Fazendo download do JSON");
         }
 

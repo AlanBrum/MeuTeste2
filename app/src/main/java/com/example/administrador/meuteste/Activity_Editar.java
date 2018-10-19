@@ -16,7 +16,7 @@ public class Activity_Editar extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity__editar);
+        setContentView(R.layout.activity__editar);  
 
         edNome = (EditText) findViewById(R.id.editText);
         edCPF = (EditText) findViewById(R.id.editText2);
