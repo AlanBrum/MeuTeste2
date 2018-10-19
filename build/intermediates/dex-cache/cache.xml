@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\a0756341b4bf102c778cb4b8ece0686c0b092915\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d39e0d337e4fba17185179b56a145597c5513f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\4ccad41dcee05ffe9f792d1d3f125ab847e35bec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f78223e126c92acb881afd5b6de6e8265146c88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\234bd3651e70f4d24b88b75aff871fbc265d5a79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b06ebfa1c95f333f5f02be17f9947d395f949b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d61688fa4d32e74266dcea73fcd1a19d91064fae">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b616c43557e0bb49b8129ed7a39099d8ccaf7cab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\19fd3f1e2dd17239516a6c6795af6e8a284e2706\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61114aa2dc9f17a01cb2116844e6ae30bbe8fb58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_9bc6611512a1a94708ac9a26d0f34a9b611ce0e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\5c47f5bfdd9e8204d8d49c9426177c000381912e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ed8de2b3144273611a2341ae9dba935a74826b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\d38b540f731e21ea5d832e116429b551fb2a47d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70d45c516332e36df6ce01948e4b98d62c6021bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\c29cd732fec96c401cb8faaba8e7f55b3bacef8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ca58eaddf0bc2a3c7a95232d712a2ce30ac9945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\6722ddba35d1ed8f0ec24d81939bc4f63bb58b2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb559f8dffc690fa2ada70727245df1c69ed81c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\2f41f66cc16cf93d1902e464e91c7d0ef3ec6cd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5587247bd64b381de5a508413254136eb1f5dd69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\03c7a6b3174fe2870bd90a6b80b81bb3e8bad5dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_638928199aa66dafa0e33097d604c59c2f3023c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\6dda6d59b2c4ec28489e05cac28e61d919b3dede\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_116e4109a81f10bfd27bc8976b9ed991137988f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\91bb742199adcc422a35d21b030d666a33619f1d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71f1975a1ef683d464c42822064f5ec4d9fdbf23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\.android\build-cache\a9594808c3c6050288034c40e7902d9094e1a020\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_761ed31a411589d8cd618dc2ae405ff9c63ccf2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_4e91e0f3b888e83ab76c5a66821837ef59cc7f97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\alan.brum\Desktop\MeuTeste\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4c1f2fb0aebdc0bca55fb578c4da170873f3f5f0\classes.dex" />
+    </item>
+
+</items>
