@@ -13,6 +13,7 @@ public class Activity_Editar extends AppCompatActivity {
     private EditText edCPF;
     private Pessoa pessoaclicada;
     Button btEditar;
+    Button btExcluir;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,6 +21,7 @@ public class Activity_Editar extends AppCompatActivity {
 
         edNome = (EditText) findViewById(R.id.editText);
         edCPF = (EditText) findViewById(R.id.editText2);
+        btExcluir = (Button) findViewById(R.id.button3);
 
         pessoaclicada = (Pessoa) getIntent().getSerializableExtra( "pessoaclicada" );
         btEditar = (Button) findViewById(R.id.button);
@@ -40,6 +42,19 @@ public class Activity_Editar extends AppCompatActivity {
                 String[] args = { ids };
                 db.update("CLIENTES", values,"COD_CLIENTE=?", args  );
                 finish();
+            }
+        });
+
+        btExcluir.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FeedReaderDbHelper mDbHelper = new FeedReaderDbHelper(getBaseContext());
+                SQLiteDatabase db = mDbHelper.getWritableDatabase();
+                String id = Integer.toString(pessoaclicada.getCodigo());
+                String[] args = {id};
+                db.delete("CLIENTES", "COD_CLIENTE=?",args);
+                finish();
+
             }
         });
 
