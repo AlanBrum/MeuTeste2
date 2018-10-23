@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class Activity_Editar extends AppCompatActivity {
+public class Activity_Editar_Excluir extends AppCompatActivity {
     private EditText edNome;
     private EditText edCPF;
     private Pessoa pessoaclicada;
@@ -27,7 +27,7 @@ public class Activity_Editar extends AppCompatActivity {
         btEditar = (Button) findViewById(R.id.button);
         if ( pessoaclicada != null ) {
             edNome.setText( pessoaclicada.getNome() );
-            edCPF.setText( pessoaclicada.getCpf() );
+            edCPF.setText(  pessoaclicada.getCpf() );
         }
 
         btEditar.setOnClickListener(new View.OnClickListener() {

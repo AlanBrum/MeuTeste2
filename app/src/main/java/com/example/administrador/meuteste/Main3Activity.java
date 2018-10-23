@@ -21,9 +21,6 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.List;
 
-import static android.R.attr.id;
-import static android.R.attr.value;
-
 public class Main3Activity extends AppCompatActivity {
     Button btinsericl,btListcl,btvoltarcl;
     ListView listadecliente;
@@ -71,7 +68,7 @@ public class Main3Activity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                mprogressDialog = ProgressDialog.show(Main3Activity.this, "Aguarde", "Verificando Produto(s)...");
+                mprogressDialog = ProgressDialog.show(Main3Activity.this, "Aguarde", "pesquisando clientes...");
                 new Thread(new Runnable() {
                     Handler handler = new Handler();
                     List<Pessoa> listadepessoas = new ArrayList<Pessoa>();
@@ -142,12 +139,12 @@ public class Main3Activity extends AppCompatActivity {
 
     }
 
-
+    //pega a posicao do click
     private class ItemClickedListener implements android.widget.AdapterView.OnItemClickListener {
         public void onItemClick(AdapterView<?> arg0, View arg1, int
                 position, long id) {
             Pessoa pessoa = (Pessoa) arg0.getItemAtPosition(position);
-            Intent intent = new Intent(getApplicationContext(), Activity_Editar.class);
+            Intent intent = new Intent(getApplicationContext(), Activity_Editar_Excluir.class);
             intent.putExtra("pessoaclicada", pessoa);
             startActivity( intent );
         }

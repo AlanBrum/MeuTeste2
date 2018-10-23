@@ -36,7 +36,7 @@
             android:label="@string/title_activity_main3"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Activity_Editar"
+            android:name=".Activity_Editar_Excluir"
             android:label="@string/title_activity__editar"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
